@@ -1,0 +1,2 @@
+https://docs.microsoft.com/en-us/visualstudio/test/quickstart-create-a-load-test-project?view=vs-2017
+https://jmeter.apache.org/
